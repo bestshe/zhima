@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2016-08-04 14:15:31
  */
+namespace Bestshe\Zhima\Request;
 class ZhimaCreditMobileRainGetRequest
 {
 	/** 

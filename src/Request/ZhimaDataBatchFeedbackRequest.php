@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2016-08-01 16:12:33
  */
+namespace Bestshe\Zhima\Request;
 class ZhimaDataBatchFeedbackRequest
 {
 	/** 

@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2016-07-08 10:11:48
  */
+namespace Bestshe\Zhima\Request;
 class ZhimaCreditScoreCobuildGetRequest
 {
 	/** 

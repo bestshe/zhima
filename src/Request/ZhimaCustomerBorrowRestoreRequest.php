@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2016-07-18 16:19:24
  */
+namespace Bestshe\Zhima\Request;
 class ZhimaCustomerBorrowRestoreRequest
 {
 	/** 

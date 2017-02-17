@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2016-05-06 11:45:07
  */
+namespace Bestshe\Zhima\Request;
 class ZhimaCreditEpContactPhoneGetRequest
 {
 	/** 

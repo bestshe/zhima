@@ -5,7 +5,7 @@
  * @author auto create
  * @since 1.0, 2016-10-13 11:47:09
  */
-namespace Zmop\Zhima\Request;
+namespace Bestshe\Zhima\Request;
 
 class ZhimaCreditScoreGetRequest
 {

@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2016-05-06 11:44:38
  */
+namespace Bestshe\Zhima\Request;
 class ZhimaCreditEpRoleGetRequest
 {
 	/** 

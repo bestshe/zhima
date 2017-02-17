@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2016-07-19 10:05:13
  */
+namespace Bestshe\Zhima\Request;
 class ZhimaCreditEpOperationalreportGetRequest
 {
 	/** 

@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2016-09-08 08:34:08
  */
+namespace Bestshe\Zhima\Request;
 class ZhimaDataFeedbackurlQueryRequest
 {
 	/** 

@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2016-07-12 10:48:13
  */
+namespace Bestshe\Zhima\Request;
 class ZhimaCreditCardVerifyRequest
 {
 	/** 

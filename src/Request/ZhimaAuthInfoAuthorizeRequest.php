@@ -5,7 +5,7 @@
  * @author auto create
  * @since 1.0, 2016-09-21 13:17:39
  */
-namespace Zmop\Zhima\Request;
+namespace Bestshe\Zhima\Request;
 class ZhimaAuthInfoAuthorizeRequest
 {
 	/** 

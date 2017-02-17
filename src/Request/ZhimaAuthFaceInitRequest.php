@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2016-04-22 10:59:34
  */
+namespace Bestshe\Zhima\Request;
 class ZhimaAuthFaceInitRequest
 {
 	/** 

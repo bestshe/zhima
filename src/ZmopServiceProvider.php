@@ -1,6 +1,6 @@
 <?php
 
-namespace Zmop\Zhima;
+namespace Bestshe\Zhima;
 
 use Illuminate\Support\ServiceProvider;
 

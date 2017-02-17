@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2016-09-21 13:17:18
  */
+namespace Bestshe\Zhima\Request;
 class ZhimaAuthInfoAuthqueryRequest
 {
 	/** 

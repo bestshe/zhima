@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2016-10-13 18:51:23
  */
+namespace Bestshe\Zhima\Request;
 class ZhimaCreditSkynetriskGetRequest
 {
 	/** 

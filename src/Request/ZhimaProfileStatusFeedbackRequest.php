@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2016-03-31 14:36:04
  */
+namespace Bestshe\Zhima\Request;
 class ZhimaProfileStatusFeedbackRequest
 {
 	/** 

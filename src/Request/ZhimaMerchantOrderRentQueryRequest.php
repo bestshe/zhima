@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2016-10-20 22:39:50
  */
+namespace Bestshe\Zhima\Request;
 class ZhimaMerchantOrderRentQueryRequest
 {
 	/** 

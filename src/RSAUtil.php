@@ -5,7 +5,7 @@
  * Date: 2015/9/28
  * Time: 19:11
  */
-namespace Zmop\Zhima;
+namespace Bestshe\Zhima;
 
 class RSAUtil{
 

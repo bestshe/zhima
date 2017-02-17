@@ -5,7 +5,7 @@
  * @author auto create
  * @since 1.0, 2016-07-12 11:18:58
  */
-namespace Zmop\Zhima\Request;
+namespace Bestshe\Zhima\Request;
 class ZhimaCreditWatchlistiiGetRequest
 {
 	/** 

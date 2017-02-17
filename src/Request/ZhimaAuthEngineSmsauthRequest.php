@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2016-09-21 09:54:19
  */
+namespace Bestshe\Zhima\Request;
 class ZhimaAuthEngineSmsauthRequest
 {
 	/** 

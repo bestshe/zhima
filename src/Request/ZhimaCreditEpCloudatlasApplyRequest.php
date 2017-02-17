@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2016-07-19 10:06:10
  */
+namespace Bestshe\Zhima\Request;
 class ZhimaCreditEpCloudatlasApplyRequest
 {
 	/** 

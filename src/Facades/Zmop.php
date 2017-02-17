@@ -1,6 +1,6 @@
 <?php
 
-namespace Zmop\Zhima\Facades;
+namespace Bestshe\Zhima\Facades;
 
 use Illuminate\Support\Facades\Facade;
 

@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2016-08-06 15:11:41
  */
+namespace Bestshe\Zhima\Request;
 class ZhimaCreditDriverVerifyRequest
 {
 	/** 

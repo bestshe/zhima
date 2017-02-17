@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2016-08-18 10:12:52
  */
+namespace Bestshe\Zhima\Request;
 class ZhimaCreditScoreBatchGetRequest
 {
 	/** 

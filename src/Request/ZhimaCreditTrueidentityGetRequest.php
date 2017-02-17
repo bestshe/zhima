@@ -5,6 +5,7 @@
  * @author auto create
  * @since 1.0, 2016-08-23 16:38:34
  */
+namespace Bestshe\Zhima\Request;
 class ZhimaCreditTrueidentityGetRequest
 {
 	/** 
