@@ -4,7 +4,7 @@
 
 ## Installation
 
-- Run `composer require Bestshe/laravel-zhima`
+- Run `composer require bestshe/laravel-zhima`
 
 
 - Run `php artisan vendor:publish`
